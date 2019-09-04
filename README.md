@@ -1,6 +1,8 @@
 # Dice-rolling-game
 Dice rolling game using javascript (DOM manipulation)
 
+(Please open final file)
+
 1) Enter the score that you want to end
 
 2) Roll the dice by clicking roll dice button
